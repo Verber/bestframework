@@ -8,5 +8,8 @@
             "name": "Ivan Mosiev",
             "email": "i.k.mosev@gmail.com"
         }
-    ]
+    ],
+    "require": {
+        "silex/silex": "~1.2"
+    }
 }
