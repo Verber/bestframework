@@ -9,7 +9,7 @@ $app->get('/hello/{name}', function ($name) use ($app) {
 });
 
 $app->get('/framework', function () use ($app) {
-    return json_encode($_SERVER);
+    return json_encode([$_SERVER, $_ENV]);
 });
 
 $app->run();
