@@ -10,6 +10,16 @@
         }
     ],
     "require": {
-        "silex/silex": "~1.2"
+        "silex/silex": "~1.2",
+        "microsoft/windowsazure": "*"
+    },
+    "repositories": [
+        {
+            "type": "pear",
+            "url": "http://pear.php.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"Demos": "src/"}
     }
 }
