@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e8fe5a4d50e7590f4b3d018b9d83d446",
+    "hash": "efd16fcdd8bf760d3b89b951d1e6c55f",
     "packages": [
         {
             "name": "microsoft/windowsazure",

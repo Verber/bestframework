@@ -20,6 +20,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {"Demos": "src/"}
+        "psr-0": {
+            "Rest": "src/"
+        }
     }
 }
